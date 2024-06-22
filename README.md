@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Gym, Cinema
 
 <img src="https://github-readme-stats.vercel.app/api?username=RayMiles94&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="RayMiles94's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayMiles94&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="RayMiles94's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RayMiles94&theme=synthwave&hide_border=true" alt="RayMiles94's GitHub Stats" />
