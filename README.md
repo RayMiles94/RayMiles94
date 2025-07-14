@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on odoo developement.
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on OCA
 - 🤔 I’m looking for help with ...
