@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on odoo developement.
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust, Goland
 - 👯 I’m looking to collaborate on OCA
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ...
+<!-- - 📫 How to reach me: ...  -->
 - ⚡ Fun fact: Gym, Cinema
 
 <table style="border-collapse: collapse; border: none;">
