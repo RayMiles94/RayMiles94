@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on odoo developement.
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on OCA
-- 🤔 I’m looking for help with ...
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Gym, Cinema
