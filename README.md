@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raouf (aka RayMiles).
 - 👀 I’m interested in python and javascript.
-- 🌱 I’m currently learning C++/Rust
+- 🌱 I’m currently learning C++/Rust/Go
 - 💞️ I’m looking to collaborate on odoo/oca
 - ⚡ Fun fact: i like cats
 <!---
