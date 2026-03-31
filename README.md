@@ -9,8 +9,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RayMiles94&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RayMiles94&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RayMiles94&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=RayMiles94&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RayMiles94&layout=compact&theme=radical)
 
 
 
